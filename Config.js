@@ -2,17 +2,17 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "919931122319"
-global.ownername = "Ayush Pandey"
+global.ownernumber =  "254746657141"
+global.ownername = "YOBBY FLAME"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Kenya"
 
 global.ownername = 'Ayush' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = 'DEATH STROKE' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = 'ᎠᎬᎪᏆᎻᎦᏆᏒᎾᏦᎬ♐.ᎽᎾᏴᏴᎽ'
 global.packname = 'Sticker By'
 global.author = 'Maria Bot'
 //console view/theme
@@ -23,7 +23,7 @@ global.wm = "Ayush botz inc."
 global.link = 'https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['!']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
